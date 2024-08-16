@@ -31,8 +31,8 @@
 ##
 
 <div align="center"><br>
- 📚 Cursando Tecnologia da Informação e da Computação na FAETERJ - Petrópolis, Ciência da Computação na Universidade Estácio de Sá e Ciência de Dados & Business Intelligence na Universidade Católica de Petrópolis. <br>
- 📧 Contato: <a>guilhermeborde99@gmail.com</a><br>
+ 📚 Cursando Tecnologia da Informação e da Computação na FAETERJ - Petrópolis, Ciência da Computação na Universidade Estácio de Sá e Ciência de Dados & Business Intelligence na Universidade Católica de Petrópolis. <br><br>
+ 📧 Contato: <a>guilhermeborde99@gmail.com</a><br><br>
  💻 LinkedIn: <a href="https://www.linkedin.com/in/bordeguilherme/">https://www.linkedin.com/in/bordeguilherme/</a><br><br>
 </div>
 
