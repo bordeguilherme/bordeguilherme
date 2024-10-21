@@ -41,3 +41,9 @@
    <img height="210px" src="https://github-readme-stats.vercel.app/api?username=bordeguilherme&show_icons=true&count_private=true&hide_border=true&title_color=9000D3&icon_color=FFBF00&text_color=F0F8FF&bg_color=000000" alt="Guilherme's Github Stats" /> 
       <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bordeguilherme&layout=compact&hide_border=true&title_color=9000D3&text_color=F0F8FF&bg_color=000000" alt="Guilherme's Most Used Languages" />
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bordeguilherme}/count.svg" /></p> 
+<br>
+</div>
